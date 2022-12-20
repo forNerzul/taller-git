@@ -1,2 +1,5 @@
 print('Hola desde Git')
 print('Agregue este archivo a stage')
+print('Iniciando otro dia de trabajo')
+print('Esta es otra linea')
+print('Esta es una modificacion se va a ver en changes')
